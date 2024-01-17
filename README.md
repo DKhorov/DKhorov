@@ -1,2 +1,1 @@
-Telecom entertainment computer system 
-© DmitryKhorov 2024
+think.
