@@ -1,5 +1,5 @@
 
-# <center>Hello World!</center>
+# `Hello World!`
 👨‍💻 **Frontend & Backend Developer**  
 - ⚒️ **3+ years** of experience in **Web Development** 
 🌐 Building modern web applications and tools for developers  
