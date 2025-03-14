@@ -1,11 +1,7 @@
 
 # `Hello World!`
 👨‍💻 **Frontend & Backend Developer**  
-- ⚒️ **3+ years** of experience in **Web Development** 
-🌐 Building modern web applications and tools for developers  
-🚀 Passionate about clean code, scalability, and solving complex problems  
 
----
 
 ### 🛠️ Tech Stack
 
