@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-7F52FF?logo=Java&logoColor=red)
 
 #### Mobile Development:
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
