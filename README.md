@@ -1,9 +1,5 @@
 
 # `Hello World!`
-👨‍💻 **Frontend & Backend Developer**  
-
-
-### 🛠️ Tech Stack
 
 #### Languages:
 
