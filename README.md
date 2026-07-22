@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://storage-742.s3hoster.by/test/uploads/1784680533935-305718507.jpg" alt="Logo" width="130" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
   
   <h1>Dmitry Khorov</h1>
   
