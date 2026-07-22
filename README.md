@@ -1,65 +1,101 @@
+<div align="center">
+  <img src="https://www.atomglide.com/1.png" alt="AtomGlide Logo" width="100" />
+  <h1>SYSTEMS ARCHITECT & SOFTWARE ENGINEER</h1>
+  <p><b>FULL-STACK ARCHITECTURE | EMBEDDED SYSTEMS | AI INTEGRATION</b></p>
+  <p>
+    <a href="#english-version">EN</a> • <a href="#russian-version">RU</a>
+  </p>
+  <hr>
+</div>
 
-# `Hello World!`
+<a name="english-version"></a>
+## [ EN ] PROFESSIONAL OVERVIEW
 
-#### Languages:
+Operating as a solopreneur and AI systems engineer with a background in IT since late 2019. Expertise spans high-level enterprise application architecture and micro-level embedded systems programming. Every development initiative, regardless of scale, is executed under strict commercial-grade standards—enforcing comprehensive documentation, precise architectural integrity, and corporate branding protocols.
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+### CURRENT ENTERPRISE: ATOMGLIDE LLC
+**Chief Executive & Primary Architect**
+*   **Core Product:** AtomGlide.com (Social Network Ecosystem)
+*   **Architecture:** Node.js (Express.js) VPS Backend, React 18 Frontend hosted on Vercel.
+*   **Infrastructure:** MongoDB Database, CDN routing via Hoster.by.
+*   **Domains:** `atomglide.com` | `atomglidedev.ru` | `geromik.ru`
+*   **Recognition:** Secured honorary placements in regional olympiads and technical hackathons, including BNTU and BGUIR (Republic of Belarus).
 
-#### Mobile Development:
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+### CORE COMPETENCIES & TECHNOLOGY STACK
 
-#### Frontend:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+**Mainstream Focus:** JavaScript Enterprise Applications, C/C++ Micro-level Development (ESP32).
 
-#### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+*   **Programming Languages:** TypeScript, JavaScript, C, C++, Assembler, Go, Swift, Dart, C# (Unity), Python.
+*   **Frontend & Mobile:** Next.js, React, HTML5, SCSS, Redux, Axios, Flutter.
+*   **Hardware & Embedded:** ESP-IDF, Arduino, FPGA (Nexys 2/3 Diligent), ESP32-S3, ESP32-WROOM.
+*   **Databases:** IBM DB2, MongoDB, MySQL, MSSQL.
+*   **Infrastructure & DevOps:** Docker, Git, Bash, Linux Terminal, Postman, VPS/Internet Administration.
+*   **System Environments:** macOS, Ubuntu Server, Ubuntu 26, Linux From Scratch, Windows 10.
+*   **AI & Automation:** Google Gemini Pro, vStack Cloud API (Bot Development), Prompt Engineering.
+*   **Design & Architecture (4+ Years):** Figma, Canva, Adobe XD, AutoCAD Systems.
 
-#### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### DEVELOPMENT & TESTING HARDWARE
+Rigorous cross-platform testing is conducted across a dedicated physical hardware fleet:
+*   **Workstations:** MacBook Pro M4 Pro, ThinkCentre M710q, ThinkPad X230, ThinkPad X201.
+*   **Mobile Devices:** iPhone 16 Pro (iOS Dev), Samsung S23 Ultra (Android Dev).
+*   **Microcontrollers:** M5Stack Cardputer ADV, Custom ESP32 implementation boards.
 
-#### Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+### WORKFLOW & DOCUMENTATION
+*   **Editors / IDEs:** CLion, WebStorm, VSCode, Android Studio, Xcode, FPGA Editors, Arduino IDE.
+*   **Knowledge Management:** Obsidian, Notion, OneNote, Google Gemini Notebook.
+*   **Admin Panels:** vStack, Hoster.by.
+*   **Core Knowledge Domains:** Financial exchange systems, P2P networks, blockchain principles, low-level computer architecture.
 
----
-
-### 📊 GitHub Stats
-
-![DKhorov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DKhorov&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DKhorov&layout=compact&theme=radical)
-
----
-
-### 🎯 Currently Working On
-
-- 🔧 Building a developer tool for API testing  
-- 🌐 Creating a full-stack e-commerce platform  
-- 📱 Developing mobile apps with Flutter and Kotlin  
-- 🚀 Learning more about microservices architecture  
-
----
-
-### 📫 How to Reach Me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/@dkdevelop)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:dimakhorov@outlook.com)
+### CONTACT & COMMUNICATIONS
+*   **Email:** `toktybclassic@gmail.com` (SLA: 3-5 business days)
+*   **Telegram (Direct):** `@jpegweb`
+*   **Telegram (Engineering Channel):** `@dkdevelop` (Private, established 2024)
+*   **TikTok:** `@jpegweb` (Established 2025)
 
 ---
-- Since 2023, I have had my own community DK Studio,
-- during which time more than 50 projects have been
-- developed in it in various programming languages.
+
+<br><br>
+
+<a name="russian-version"></a>
+## [ RU ] ПРОФЕССИОНАЛЬНЫЙ ПРОФИЛЬ
+
+Инженер-программист, системный архитектор ИИ-систем. В ИТ-сфере с конца 2019 года. Специализируюсь на создании высоконагруженных корпоративных приложений и микроуровневом программировании встраиваемых систем. К каждому проекту, включая независимые разработки, применяется строгий коммерческий стандарт: исчерпывающая документация, архитектурная целостность и профессиональный брендинг.
+
+### ТЕКУЩИЙ ПРОЕКТ: ATOMGLIDE LLC
+**Генеральный директор и ведущий архитектор**
+*   **Основной продукт:** AtomGlide.com (Экосистема социальной сети)
+*   **Архитектура:** Node.js (Express.js) VPS серверная часть, React 18 клиентская часть (Vercel).
+*   **Инфраструктура:** База данных MongoDB, CDN от Hoster.by.
+*   **Домены:** `atomglide.com` | `atomglidedev.ru` | `geromik.ru`
+*   **Достижения:** Призовые места на городских хакатонах и олимпиадах, участие проектов в конкурсах на базе БНТУ и БГУИР (Республика Беларусь).
+
+### ТЕХНОЛОГИЧЕСКИЙ СТЕК И КОМПЕТЕНЦИИ
+
+**Основной фокус:** Корпоративные JavaScript-проекты, C/C++ разработка на микроуровне (ESP32).
+
+*   **Языки программирования:** TypeScript, JavaScript, C, C++, Assembler, Go, Swift, Dart, C# (Unity), Python.
+*   **Frontend и Mobile:** Next.js, React, HTML5, SCSS, Redux, Axios, Flutter.
+*   **Аппаратное обеспечение:** ESP-IDF, Arduino, ПЛИС (Nexys 2/3 Diligent), ESP32-S3, ESP32-WROOM.
+*   **Базы данных:** IBM DB2, MongoDB, MySQL, MSSQL.
+*   **Инфраструктура и DevOps:** Docker, Git, Bash, Linux Terminal, Postman, администрирование VPS и сетей.
+*   **Операционные системы:** macOS, Ubuntu Server, Ubuntu 26, Linux From Scratch, Windows 10.
+*   **ИИ и автоматизация:** Google Gemini Pro, vStack Cloud API (разработка ботов), Prompt Engineering.
+*   **Дизайн и проектирование (4+ года):** Figma, Canva, Adobe XD, AutoCAD Systems.
+
+### ОБОРУДОВАНИЕ ДЛЯ РАЗРАБОТКИ И ТЕСТИРОВАНИЯ
+Кроссплатформенное тестирование проводится на выделенном парке устройств:
+*   **Рабочие станции:** MacBook Pro M4 Pro, ThinkCentre M710q, ThinkPad X230, ThinkPad X201.
+*   **Мобильные устройства:** iPhone 16 Pro (разработка под iOS), Samsung S23 Ultra (разработка под Android).
+*   **Микроконтроллеры:** M5Stack Cardputer ADV, кастомные сборки на базе ESP32.
+
+### РАБОЧИЕ ИНСТРУМЕНТЫ И ДОКУМЕНТАЦИЯ
+*   **Среды разработки:** CLion, WebStorm, VSCode, Android Studio, Xcode, редакторы ПЛИС, Arduino IDE.
+*   **Управление знаниями:** Obsidian, Notion, OneNote, Google Gemini Notebook.
+*   **Панели управления:** vStack, Hoster.by.
+*   **Профильные знания:** Финансовые биржевые системы, P2P сети, принципы работы блокчейна, архитектура ЭВМ, DevTools.
+
+### КОНТАКТЫ
+*   **Email:** `toktybclassic@gmail.com` (Регламент ответа: 3-5 дней)
+*   **Telegram (Связь):** `@jpegweb`
+*   **Telegram (Инженерный канал):** `@dkdevelop` (Закрытый, ведется с 2024 года)
+*   **TikTok:** `@jpegweb` (С начала 2025 года)
