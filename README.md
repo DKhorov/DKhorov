@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.atomglide.com/1.png" alt="AtomGlide Logo" width="120" />
+  <img src="https://storage-742.s3hoster.by/test/uploads/1784680533935-305718507.jpg" alt=" Logo" width="120" />
   <h1>Dmitry Khorov</h1>
   <p><b>Systems Architect | Embedded & AI Systems Engineer | Full-Stack Developer</b></p>
   <p>
