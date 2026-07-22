@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://www.atomglide.com/1.png" alt="AtomGlide Logo" width="120" />
   <h1>Dmitry Khorov</h1>
-  <p><b>ПРОЕКТИРОВАНИЕ ВЫСОКОНАГРУЖЕННЫХ СИСТЕМ | EMBEDDED-РАЗРАБОТКА | ИНТЕГРАЦИЯ ИИ</b></p>
+  <p><b>Systems Architect | Embedded & AI Systems Engineer | Full-Stack Developer</b></p>
   <p>
     <a href="#russian-version">RU (Текущая версия)</a> • <a href="#english-version">EN (English Version)</a>
   </p>
