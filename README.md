@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://www.atomglide.com/1.png" alt="AtomGlide Logo" width="120" />
-  <h1>СИСТЕМНЫЙ АРХИТЕКТОР И ИНЖЕНЕР ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ</h1>
+  <h1>Dmitry Khorov</h1>
   <p><b>ПРОЕКТИРОВАНИЕ ВЫСОКОНАГРУЖЕННЫХ СИСТЕМ | EMBEDDED-РАЗРАБОТКА | ИНТЕГРАЦИЯ ИИ</b></p>
   <p>
     <a href="#russian-version">RU (Текущая версия)</a> • <a href="#english-version">EN (English Version)</a>
@@ -9,7 +9,7 @@
 </div>
 
 <a name="russian-version"></a>
-## [ RU ] ПРОФЕССИОНАЛЬНЫЙ ПРОФИЛЬ
+## [ RU ] ПРОФИЛЬ
 
 Деятельность в индустрии информационных технологий ведется с конца 2019 года, начиная с автоматизации систем на базе Python и создания специализированных микросервисов. В настоящее время компетенции охватывают проектирование распределенных высоконагруженных веб-платформ, интеграцию решений искусственного интеллекта и глубокую низкоуровневую разработку программно-аппаратных комплексов.
 
@@ -195,22 +195,7 @@ All software applications and low-level source code undergo rigorous cross-platf
 * **TikTok Corporate Profile:** `@jpegweb` (Content distribution active since early 2025).
 
 ---
-
-<br>
-
-<div align="center">
-  <h2>ДИНАМИЧЕСКАЯ АНАЛИТИКА / PROFILE ANALYTICS</h2>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jpegweb&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpegweb&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpegweb&theme=dark&hide_border=true" alt="GitHub Streak" width="97%" />
-  </p>
-  
-  <br>
-  
-  <p><sub><i>Примечание: Данные виджетов обновляются автоматически на основе активности в репозиториях GitHub. Для корректного отображения замените идентификатор пользователя в ссылках, если целевое имя профиля отличается.</i></sub></p>
-</div>
+Данные на 22 Июля 2026 Год 03:33 MSK 
+22.07.2026.03:33.MSK
+GitHub @dkhorov 
+---
